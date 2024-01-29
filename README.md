@@ -16,25 +16,25 @@ To install and run this project, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/xAkshay/Resolvers.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repository
+    cd Resolvers
     ```
 
 3. Run the Go program:
 
     ```bash
-    go run main.go
+    go run resolvers.go
     ```
 
     Alternatively, you can install the program using `go install`:
 
     ```bash
-    go install github.com/your-username/your-repository
+    go install github.com/xAkshay/Resolvers
     ```
 
 4. See [Usage](#usage) for more details on how to use the program.
@@ -46,4 +46,4 @@ Describe how to use your program. Include any command-line options, configuratio
 For example:
 
 ```bash
-your-program command --option value
+just run prgram in terminal and check current path for output "no arguments"
