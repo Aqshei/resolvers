@@ -16,7 +16,7 @@ To install and run this project, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://go install github.com/xAkshay/Resolvers.git
+    git clone https://github.com/xAkshay/Resolvers.git
     ```
 
 2. Navigate to the project directory:
