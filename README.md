@@ -22,7 +22,7 @@ To install and run this project, follow these steps:
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repository
+    cd Resolvers
     ```
 
 3. Run the Go program:
