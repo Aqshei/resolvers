@@ -34,7 +34,7 @@ To install and run this project, follow these steps:
     Alternatively, you can install the program using `go install`:
 
     ```bash
-    go install github.com/your-username/your-repository
+    go install https://github.com/xAkshay/Resolvers
     ```
 
 4. See [Usage](#usage) for more details on how to use the program.
