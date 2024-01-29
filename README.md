@@ -28,7 +28,7 @@ To install and run this project, follow these steps:
 3. Run the Go program:
 
     ```bash
-    go run resolvers.go
+    go run main.go
     ```
 
     Alternatively, you can install the program using `go install`:
