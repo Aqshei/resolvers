@@ -46,4 +46,4 @@ Describe how to use your program. Include any command-line options, configuratio
 For example:
 
 ```bash
-your-program command --option value
+just run prgram in terminal and check current path for output "no arguments"
