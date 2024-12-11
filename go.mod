@@ -1,3 +1,3 @@
-module github.com/xAkshay/Resolvers
+module github.com/Aqshei/Resolvers
 
 go 1.21.6
