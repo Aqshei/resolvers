@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	downloadURL  = "https://raw.githubusercontent.com/trickest/resolvers/main/resolvers.txt"
+	downloadURL  = "https://raw.githubusercontent.com/trickest/resolvers/refs/heads/main/resolvers.txt"
 	folderName   = "Resolvers"
 	fileName     = "resolvers.txt"
 )
