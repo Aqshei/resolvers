@@ -16,7 +16,7 @@ To install and run this project, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/xAkshay/Resolvers.git
+    git clone https://github.com/Aqshei/Resolvers.git
     ```
 
 2. Navigate to the project directory:
@@ -34,7 +34,7 @@ To install and run this project, follow these steps:
     Alternatively, you can install the program using `go install`:
 
     ```bash
-    go install github.com/xAkshay/Resolvers
+    go install github.com/Aqshei/Resolvers
     ```
 
 4. See [Usage](#usage) for more details on how to use the program.
